@@ -1,9 +1,11 @@
 # SteamBot
+
 Welcome to my C# Steam Bot :D
 
 This is a very simple bot, but it works.
 
 # Setup
+
 Load the "SteamChatBot.sln" file and edit a few things in the "project.cs" file.
 
 Line 30: Change the Steam ID 64 to your Steam ID 64.
@@ -21,7 +23,7 @@ Line 250-265: Change the SteamID 64 for the relay command.
 
 # Command List
 
-# User Commands:
+User Commands:
 
 !amiadmin: Checks if you are an admin or not.
 
@@ -38,7 +40,8 @@ Line 250-265: Change the SteamID 64 for the relay command.
 !source: Displays info about getting the source.
 
 
-# Admin Commands:
+Admin Commands:
+
 !changename [Name]: Updates the bot's name to the argument given.
 
 !friend [SteamID64]: Adds the user tied to the SteamID64.
@@ -52,6 +55,7 @@ Line 250-265: Change the SteamID 64 for the relay command.
 !unfriend [SteamID64]: Removes the user with that SteamID.
 
 # Support
+
 Here are some ways to contact me for support
 
 Steam: http://steamcommunity.com/id/Thaisen/
