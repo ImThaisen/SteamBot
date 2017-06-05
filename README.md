@@ -1,8 +1,6 @@
 # SteamBot
 
-Welcome to my C# Steam Bot :D
-
-This is a very simple bot, but it works.
+This is a very simple bot, but it works. This is based off of SteamKit2 and does not support trading or mobile auth logins.
 
 # Setup
 
